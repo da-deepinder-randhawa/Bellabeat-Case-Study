@@ -35,7 +35,7 @@ The project includes interactive dashboards showcasing:
 
 ## Detailed Documentation
 
-For a comprehensive view of the project, including detailed analysis and visualizations, please refer to the full [BellaBeat Case Study PDF](link_to_your_pdf).
+For a comprehensive view of the project, including detailed analysis and visualizations, please refer to the full [BellaBeat Case Study PDF](https://github.com/da-deepinder-randhawa/Bellabeat-Case-Study/blob/main/Bellabeat%20Case%20Study.pdf).
 
 ## Author
 
