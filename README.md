@@ -39,7 +39,7 @@ For a comprehensive view of the project, including detailed analysis and visuali
 
 ## Power BI Report
 
-You can view the interactive Power BI report here: [Power BI Report]([https://app.powerbi.com/view?r=your_report_link](https://app.powerbi.com/groups/0ccb1a94-c896-48f6-b8ef-bbd926b7640c/reports/512548ec-64f5-4cee-b961-9d891c1544bc/ReportSection?experience=power-bi))
+You can view the interactive Power BI report here: [Power BI Report][https://app.powerbi.com/view?r=your_report_link](https://app.powerbi.com/groups/0ccb1a94-c896-48f6-b8ef-bbd926b7640c/reports/512548ec-64f5-4cee-b961-9d891c1544bc/ReportSection?experience=power-bi)
 
 
 ## Author
